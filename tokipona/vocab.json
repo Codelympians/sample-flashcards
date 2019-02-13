@@ -1,0 +1,29 @@
+{
+  "name": "Toki Pona Vocabulary",
+  "congratulateCard": {
+    "term": "sina pona!",
+    "definition": "Congratulations!\n(You've completed one entire set.)"
+  },
+  "flashcards": [
+    {
+      "term": "a or kin",
+      "definition": "PARTICLE  (emphasis, emotion or confirmation)"
+    },
+    {
+      "term": "akesi",
+      "definition": "NOUN  non-cute animal; reptile, amphibian"
+    },
+    {
+      "term": "ala",
+      "definition": "ADJECTIVE  no, not, zero"
+    },
+    {
+      "term": "alasa",
+      "definition": "VERB  to hunt, forage"
+    },
+    {
+      "term": "WIP",
+      "definition": "WIP"
+    }
+  ]
+}
