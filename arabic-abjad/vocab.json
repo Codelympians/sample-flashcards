@@ -1,0 +1,121 @@
+{
+  "name": "Arabic Abjad",
+  "congratulateCard": {
+    "term": "!تهانينا",
+    "definition": "Congratulations!\n(You've completed one entire set.)"
+  },
+  "flashcards": [
+    {
+      "term": "ا",
+      "definition": "'alif /a/"
+    },
+    {
+      "term": "ب",
+      "definition": "bā' /b/"
+    },
+    {
+      "term": "ت",
+      "definition": "tā' /t/"
+    },
+    {
+      "term": "ث",
+      "definition": "thā' /θ/"
+    },
+    {
+      "term": "ج",
+      "definition": "jim /d͡ʒ/"
+    },
+    {
+      "term": "ح",
+      "definition": "ḥā' /ħ/"
+    },
+    {
+      "term": "خ",
+      "definition": "khā' /x ~ χ/"
+    },
+    {
+      "term": "د",
+      "definition": "dāl /d/"
+    },
+    {
+      "term": "ذ",
+      "definition": "dhāl /ð/"
+    },
+    {
+      "term": "ر",
+      "definition": "rā' /r/"
+    },
+    {
+      "term": "ز",
+      "definition": "zāy' /z/"
+    },
+    {
+      "term": "س",
+      "definition": "sīn /s/"
+    },
+    {
+      "term": "ش",
+      "definition": "shīn /ʃ/"
+    },
+    {
+      "term": "ص",
+      "definition": "ṣād /sˤ/"
+    },
+    {
+      "term": "ض",
+      "definition": "ḍād /dˤ/"
+    },
+    {
+      "term": "ط",
+      "definition": "ṭā' /tˤ/"
+    },
+    {
+      "term": "ظ",
+      "definition": "ẓā' /ðˤ/"
+    },
+    {
+      "term": "ع",
+      "definition": "'ayn /ʕ/"
+    },
+    {
+      "term": "غ",
+      "definition": "ghayn /ɣ ~ ʁ/"
+    },
+    {
+      "term": "ف",
+      "definition": "fā' /f/"
+    },
+    {
+      "term": "ق",
+      "definition": "qāf /q/"
+    },
+    {
+      "term": "ك",
+      "definition": "kāf /k/"
+    },
+    {
+      "term": "ل",
+      "definition": "lām /l/"
+    },
+    {
+      "term": "م",
+      "definition": "mīm /m/"
+    },
+    {
+      "term": "ن",
+      "definition": "nūn /n/"
+    },
+    {
+      "term": "ه",
+      "definition": "hā' /h/"
+    },
+    {
+      "term": "و",
+      "definition": "wāw /w/"
+    },
+    {
+      "term": "ي",
+      "definition": "yā' /j/"
+    },
+  ]
+}
