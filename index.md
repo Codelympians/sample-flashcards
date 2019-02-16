@@ -5,5 +5,5 @@
 | [Kanji Pronunciations](kanji/)      | Vincent                    | WIP                                |
 | [Esperanto Agglutinations](eo/)     | Vincent                    | WIP                                |
 | [Hebrew Abjad](hebrew-abjad/)       | Vincent                    | WIP                                |
-| [Arabic Abjad](arabic-abjad/)       | Vincent                    | WIP                                |
+| [Arabic Abjad](arabic-abjad/)       | Vincent                    | The letters of the Arabic abjad    |
 | [Toki Pona Vocabulary](tokipona/)   | Vincent                    | The 120 lexical roots of Toki Pona |
