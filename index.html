@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<meta charset="utf-8">
+<!-- DO NOT USE VIEWPORT for this web app -->
+<!--<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">-->
+<script src="https://codelympians.github.io/FlashcardsKitJS/libraries/p5.js"></script>
+<script src="https://codelympians.github.io/FlashcardsKitJS/flashcardskit.js"></script>
+<style>
+  body {
+    padding: 0;
+    margin: 0;
+    background: #141414;
+  }
+</style>
+
+<title>Flashcards - Japanese Kana</title>
+<script>
+let shouldLoad = false
+
+function userDefinedLoading() {
+    if (!shouldLoad) {
+        return
+    }
+    termFontSizeMultiplier = 1/4
+    definitionFontSizeMultiplier = 1/9
+    tryLoadingJSON("vocab.json", false)
+}
+
+function allowLoading() {
+    shouldLoad = true
+    for (let element of getElementsByClass("init-button")) {
+        element.style.display = "none"
+    }
+}
+</script>
+
+<div>
+  <div class="init-button">
+  </div>
+  <div class="init-button">
+  </div>
+</div>
