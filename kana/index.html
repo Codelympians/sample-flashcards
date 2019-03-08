@@ -15,28 +15,44 @@
 
 <title>Flashcards - Japanese Kana</title>
 <script>
-let shouldLoad = false
-
 function userDefinedLoading() {
-    if (!shouldLoad) {
-        return
-    }
-    termFontSizeMultiplier = 1/4
-    definitionFontSizeMultiplier = 1/9
-    tryLoadingJSON("vocab.json", false)
+    // do nothing
 }
 
-function allowLoading() {
-    shouldLoad = true
-    for (let element of getElementsByClass("init-button")) {
+function willLoad() {
+    termFontSizeMultiplier = 1/4
+    definitionFontSizeMultiplier = 1/9
+  
+    for (let element of getElementsByClassName("init-button")) {
         element.style.display = "none"
     }
 }
+  
+function hiraganaOnly() {
+    willLoad()
+    tryLoadingJSON("hiragana.json", false)
+}
+  
+function katakanaOnly() {
+    willLoad()
+    tryLoadingJSON("katakana.json", false)
+}
+  
+function allKana() {
+    willLoad()
+    tryLoadingJSON("all-kana.json", false)
+}
+
 </script>
 
 <div>
-  <div class="init-button">
+  <div class="init-button" onclick="hiraganaOnly()">
+    ひらがな Hiragana Only 
   </div>
-  <div class="init-button">
+  <div class="init-button" onclick="katakanaOnly()">
+    カタカナ Katakana Only
+  </div>
+  <div class="init-button" onclick="allKana()">
+    Hiragana + Katakana
   </div>
 </div>
