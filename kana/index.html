@@ -11,6 +11,21 @@
     margin: 0;
     background: #141414;
   }
+  
+  .init-button {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    padding: 100px 100px 100px 100px;
+  }
+  
+  .init-button {
+    font-family: sans-serif;
+    font-size: 48px;
+    width: 300px;
+    max-width: 90%;
+    text-decoration: none;
+  }
 </style>
 
 <title>Flashcards - Japanese Kana</title>
@@ -42,17 +57,16 @@ function allKana() {
     willLoad()
     tryLoadingJSON("all-kana.json", false)
 }
-
 </script>
 
-<div>
-  <div class="init-button" onclick="hiraganaOnly()">
+<div class="init-button">
+  <a href="#" onclick="hiraganaOnly()">
     ひらがな Hiragana Only 
-  </div>
-  <div class="init-button" onclick="katakanaOnly()">
+  </a>
+  <a href="#" onclick="katakanaOnly()">
     カタカナ Katakana Only
-  </div>
-  <div class="init-button" onclick="allKana()">
+  </a>
+  <a href="#" onclick="allKana()">
     Hiragana + Katakana
-  </div>
+  </a>
 </div>
