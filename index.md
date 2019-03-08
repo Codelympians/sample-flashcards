@@ -1,6 +1,7 @@
 # Flashcards Catalog
 
 ## Language Learning
+
 | Name and link                                  | Author                     | Description                        |
 |------------------------------------------------|----------------------------|------------------------------------|
 | [Kanji Pronunciations](kanji/)                 | Vincent                    | WIP                                |
@@ -12,6 +13,7 @@
 | [Toki Pona Vocabulary](tokipona/)              | Vincent                    | The 120 lexical roots of Toki Pona |
 
 ## Other
+
 | Name and link                                  | Author                     | Description                        |
 |------------------------------------------------|----------------------------|------------------------------------|
 | -                                              | -                          | WIP                                |
