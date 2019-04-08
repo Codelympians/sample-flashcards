@@ -1,0 +1,65 @@
+{
+  "name": "JA/KO Particles",
+  "congratulateCard": {
+    "term": "おめでとう!",
+    "definition": "Congratulations!\n(You've completed one entire set.)"
+  },
+  "flashcards": [
+    {
+      "term": "는 / 은",
+      "definition": "は\n(topic marker)"
+    },
+    {
+      "term": "가 / 이",
+      "definition": "が\n(nominative case)"
+    },
+    {
+      "term": "의",
+      "definition": "の\n(posession)"
+    },
+    {
+      "term": "를 / 을",
+      "definition": "を\n(accusative case)"
+    },
+    {
+      "term": "에게 / 한테",
+      "definition": "に\n(to: human)"
+    },
+    {
+      "term": "에",
+      "definition": "に\n(to: object)"
+    },
+    {
+      "term": "도",
+      "definition": "も\n(also)"
+    },
+    {
+      "term": "와 / 과",
+      "definition": "と\n(listing)"
+    },
+    {
+      "term": "로 / 으로",
+      "definition": "で\n(method)"
+    },
+    {
+      "term": "에서",
+      "definition": "で\n(location)"
+    },
+    {
+      "term": "-에요 / -이에요",
+      "definition": "-です"
+    },
+    {
+      "term": "-세요 / -이세요",
+      "definition": "-でいらっしゃいます\n(polite)"
+    },
+    {
+      "term": "-부터",
+      "definition": "-から\n(starting time)"
+    },
+    {
+      "term": "-부터",
+      "definition": "-から\n(starting time)"
+    }
+  ]
+}
