@@ -7,7 +7,7 @@
 | [Kanji Pronunciations](kanji/)                 | Vincent                    | WIP                                  |
 | [Esperanto Particles](eo-particles/)           | Vincent                    | WIP                                  |
 | [Esperanto Agglutinations](eo-agglutinations/) | Vincent                    | WIP                                  |
-| [JP/KO Particles](kanji/)                      | Vincent                    | Learn Korean particles with Japanese |
+| [JP/KO Particles](particles/)                  | Vincent                    | Learn Korean particles with Japanese |
 | [Japanese Kana (Redesigned)](kana/)            | Vincent                    | Hiragana and katakana characters     |
 | [Hebrew Abjad](hebrew-abjad/)                  | Vincent                    | WIP                                  |
 | [Arabic Abjad](arabic-abjad/)                  | Vincent                    | The letters of the Arabic abjad      |
