@@ -609,6 +609,298 @@
     {
       "term": "ヴ",
       "definition": "(ゔ)* vu [bɯ̟ᵝ]\n(only used in foreign words)\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    
+    
+    {
+      "term": "きゃ",
+      "definition": "kya [kʲa]"
+    },
+    {
+      "term": "きゅ",
+      "definition": "kyu [kʲɯ]"
+    },
+    {
+      "term": "きょ",
+      "definition": "kyo [kʲo]"
+    },
+    {
+      "term": "しゃ",
+      "definition": "sha [ɕa]"
+    },
+    {
+      "term": "しゅ",
+      "definition": "shu [ɕɯ]"
+    },
+    {
+      "term": "しょ",
+      "definition": "sho [ɕo]"
+    },
+    {
+      "term": "ちゃ",
+      "definition": "cha [tɕa]"
+    },
+    {
+      "term": "ちゅ",
+      "definition": "chu [tɕɯ]"
+    },
+    {
+      "term": "ちょ",
+      "definition": "cho [tɕo]"
+    },
+    {
+      "term": "にゃ",
+      "definition": "nya [ɲa]"
+    },
+    {
+      "term": "にゅ",
+      "definition": "nyu [ɲɯ]"
+    },
+    {
+      "term": "にょ",
+      "definition": "nyo [ɲo]"
+    },
+    {
+      "term": "ひゃ",
+      "definition": "hya [ça]"
+    },
+    {
+      "term": "ひゅ",
+      "definition": "hyu [çɯ]"
+    },
+    {
+      "term": "ひょ",
+      "definition": "hyo [ço]"
+    },
+    {
+      "term": "みゃ",
+      "definition": "mya [mʲa]"
+    },
+    {
+      "term": "みゅ",
+      "definition": "myu [mʲɯ]"
+    },
+    {
+      "term": "みょ",
+      "definition": "myo [mʲo]"
+    },
+    {
+      "term": "りゃ",
+      "definition": "rya [ɾʲa]"
+    },
+    {
+      "term": "りゅ",
+      "definition": "ryu [ɾʲɯ]"
+    },
+    {
+      "term": "りょ",
+      "definition": "ryo [ɾʲo]"
+    },
+    {
+      "term": "ぎゃ",
+      "definition": "gya [ɡʲa]"
+    },
+    {
+      "term": "ぎゅ",
+      "definition": "gyu [ɡʲɯ]"
+    },
+    {
+      "term": "ぎょ",
+      "definition": "gyo [ɡʲo]"
+    },
+    {
+      "term": "じゃ",
+      "definition": "ja [(d)ʑa]"
+    },
+    {
+      "term": "じゅ",
+      "definition": "ju [(d)ʑɯ]"
+    },
+    {
+      "term": "じょ",
+      "definition": "jo [(d)ʑo]"
+    },
+    {
+      "term": "ぢゃ",
+      "definition": "ja [(d)ʑa]"
+    },
+    {
+      "term": "ぢゅ",
+      "definition": "ju [(d)ʑɯ]"
+    },
+    {
+      "term": "ぢょ",
+      "definition": "jo [(d)ʑo]"
+    },
+    {
+      "term": "びゃ",
+      "definition": "bya [bʲa]"
+    },
+    {
+      "term": "びゅ",
+      "definition": "byu [bʲɯ]"
+    },
+    {
+      "term": "びょ",
+      "definition": "byo [bʲo]"
+    },
+    {
+      "term": "ぴゃ",
+      "definition": "pya [pʲa]"
+    },
+    {
+      "term": "ぴゅ",
+      "definition": "pyu [pʲɯ]"
+    },
+    {
+      "term": "ぴょ",
+      "definition": "pyo [pʲo]"
+    },
+
+
+    {
+      "term": "キャ",
+      "definition": "kya [kʲa]"
+    },
+    {
+      "term": "キュ",
+      "definition": "kyu [kʲɯ]"
+    },
+    {
+      "term": "キョ",
+      "definition": "kyo [kʲo]"
+    },
+    {
+      "term": "シャ",
+      "definition": "sha [ɕa]"
+    },
+    {
+      "term": "シュ",
+      "definition": "shu [ɕɯ]"
+    },
+    {
+      "term": "ショ",
+      "definition": "sho [ɕo]"
+    },
+    {
+      "term": "チャ",
+      "definition": "cha [t͡ɕa]"
+    },
+    {
+      "term": "チュ",
+      "definition": "chu [t͡ɕɯ]"
+    },
+    {
+      "term": "チョ",
+      "definition": "cho [t͡ɕo]"
+    },
+    {
+      "term": "ニャ",
+      "definition": "nya [ɲa]"
+    },
+    {
+      "term": "ニュ",
+      "definition": "nyu [ɲɯ]"
+    },
+    {
+      "term": "ニョ",
+      "definition": "nyo [ɲo]"
+    },
+    {
+      "term": "ヒャ",
+      "definition": "hya [ça]"
+    },
+    {
+      "term": "ヒュ",
+      "definition": "hyu [çɯ]"
+    },
+    {
+      "term": "ヒョ",
+      "definition": "hyo [ço]"
+    },
+    {
+      "term": "ミャ",
+      "definition": "mya [mʲa]"
+    },
+    {
+      "term": "ミュ",
+      "definition": "myu [mʲɯ]"
+    },
+    {
+      "term": "ミョ",
+      "definition": "myo [mʲo]"
+    },
+    {
+      "term": "リャ",
+      "definition": "rya [ɾʲa]"
+    },
+    {
+      "term": "リュ",
+      "definition": "ryu [ɾʲɯ]"
+    },
+    {
+      "term": "リョ",
+      "definition": "ryo [ɾʲo]"
+    },
+    {
+      "term": "ギャ",
+      "definition": "gya [ɡʲa]"
+    },
+    {
+      "term": "ギュ",
+      "definition": "gyu [ɡʲɯ]"
+    },
+    {
+      "term": "ギョ",
+      "definition": "gyo [ɡʲo]"
+    },
+    {
+      "term": "ジャ",
+      "definition": "ja [(d)ʑa]"
+    },
+    {
+      "term": "ジュ",
+      "definition": "ju [(d)ʑɯ]"
+    },
+    {
+      "term": "ジョ",
+      "definition": "jo [(d)ʑo]"
+    },
+    {
+      "term": "ヂャ",
+      "definition": "ja [(d)ʑa]"
+    },
+    {
+      "term": "ヂュ",
+      "definition": "ju [(d)ʑɯ]"
+    },
+    {
+      "term": "ヂョ",
+      "definition": "jo [(d)ʑo]"
+    },
+    {
+      "term": "ビャ",
+      "definition": "bya [bʲa]"
+    },
+    {
+      "term": "ビュ",
+      "definition": "byu [bʲɯ]"
+    },
+    {
+      "term": "ビョ",
+      "definition": "byo [bʲo]"
+    },
+    {
+      "term": "ピャ",
+      "definition": "pya [pʲa]"
+    },
+    {
+      "term": "ピュ",
+      "definition": "pyu [pʲɯ]"
+    },
+    {
+      "term": "ピョ",
+      "definition": "pyo [pʲo]"
     }
   ]
 }
