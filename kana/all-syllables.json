@@ -1,1 +1,614 @@
+{
+  "name": "All Syllables (+ゃゅょ)",
+  "congratulateCard": {
+    "term": "おめでとう!",
+    "definition": "Congratulations!\n(You've completed one entire set.)"
+  },
+  "flashcards": [
+    {
+      "term": "あ",
+      "definition": "(ア) a [a̠]"
+    },
+    {
+      "term": "い",
+      "definition": "(イ) i [i]"
+    },
+    {
+      "term": "う",
+      "definition": "(ウ) u [ɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "え",
+      "definition": "(エ) e [e̞]"
+    },
+    {
+      "term": "お",
+      "definition": "(オ) o [o̞]"
+    },
 
+    {
+      "term": "か",
+      "definition": "(カ) ka [ka̠]"
+    },
+    {
+      "term": "き",
+      "definition": "(キ) ki [kʲi]"
+    },
+    {
+      "term": "く",
+      "definition": "(ク) ku [kɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "け",
+      "definition": "(ケ) ke [ke̞]"
+    },
+    {
+      "term": "こ",
+      "definition": "(コ) ko [ko̞]"
+    },
+
+    {
+      "term": "さ",
+      "definition": "(サ) sa [sa̠]"
+    },
+    {
+      "term": "し",
+      "definition": "(シ) shi/si [ɕi]\n([ɕ] is the same as pinyin \"x\")"
+    },
+    {
+      "term": "す",
+      "definition": "(ス) su [sɨᵝ]\n[sɨᵝ] is the same as pinyin \"si\""
+    },
+    {
+      "term": "せ",
+      "definition": "(セ) se [se̞]"
+    },
+    {
+      "term": "そ",
+      "definition": "(ソ) so [so̞]"
+    },
+
+    {
+      "term": "た",
+      "definition": "(タ) ta [ta̠]"
+    },
+    {
+      "term": "ち",
+      "definition": "(チ) chi/ti [t͡ɕi]\n([t͡ɕ] is pinyin \"q\" or \"j\")"
+    },
+    {
+      "term": "つ",
+      "definition": "(ツ) tsu [t͡sɨᵝ]\n[t͡sɨᵝ] is pinyin \"ci\" or \"zi\""
+    },
+    {
+      "term": "て",
+      "definition": "(テ) te [te̞]"
+    },
+    {
+      "term": "と",
+      "definition": "(ト) to [to̞]"
+    },
+
+    {
+      "term": "な",
+      "definition": "(ナ) na [na̠]"
+    },
+    {
+      "term": "に",
+      "definition": "(ニ) ni [ɲ̟i]\n[ɲ̟] is [n] with tongue pressed against the roof of the mouth instead of the upper teeth"
+    },
+    {
+      "term": "ぬ",
+      "definition": "(ヌ) nu [nɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ね",
+      "definition": "(ネ) ne [ne̞]"
+    },
+    {
+      "term": "の",
+      "definition": "(ノ) no [no̞]"
+    },
+
+    {
+      "term": "は",
+      "definition": "(ハ) ha [ha̠]\n(wa [ɰᵝa̠] when used as particle)"
+    },
+    {
+      "term": "ひ",
+      "definition": "(ヒ) hi [çi]\n[ç] is somewhere between pinyin \"h\" and \"x\""
+    },
+    {
+      "term": "ふ",
+      "definition": "(フ) fu/hu [ɸɯ̟ᵝ]\n[ɸ] is [f] with airstream between both lips instead of between the upper lip and lower teeth\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "へ",
+      "definition": "(ヘ) he [he̞] \n(e [e̞] when used as particle)"
+    },
+    {
+      "term": "ほ",
+      "definition": "(ホ) ho [ho̞]"
+    },
+
+    {
+      "term": "ま",
+      "definition": "(マ) ma [ma̠]"
+    },
+    {
+      "term": "み",
+      "definition": "(ミ) mi [mʲi]"
+    },
+    {
+      "term": "む",
+      "definition": "(ム) mu [mɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "め",
+      "definition": "(メ) me [me̞]"
+    },
+    {
+      "term": "も",
+      "definition": "(モ) mo [mo̞]"
+    },
+
+    {
+      "term": "や",
+      "definition": "(ヤ) ya [ja̠]\n[j] is English \"y\""
+    },
+    {
+      "term": "ゆ",
+      "definition": "(ユ) yu [jɯ̟ᵝ]\n[j] is English \"y\"\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "よ",
+      "definition": "(ヨ) yo [jo̞]\n[j] is English \"y\""
+    },
+
+    {
+      "term": "ら",
+      "definition": "(ラ) ra [ɾa̠]\n[ɾ] is a quick tongue tap/flap just above the upper teeth"
+    },
+    {
+      "term": "り",
+      "definition": "(リ) ri [ɾʲi]\n[ɾ] is a quick tongue tap/flap just above the upper teeth"
+    },
+    {
+      "term": "る",
+      "definition": "(ル) ru [ɾɯ̟ᵝ]\n[ɾ] is a quick tongue tap/flap just above the upper teeth\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "れ",
+      "definition": "(レ) re [ɾe̞]\n[ɾ] is a quick tongue tap/flap just above the upper teeth"
+    },
+    {
+      "term": "ろ",
+      "definition": "(ロ) ro [ɾo̞]\n[ɾ] is a quick tongue tap/flap just above the upper teeth"
+    },
+
+    {
+      "term": "わ",
+      "definition": "(ワ) wa [ɰᵝa̠]\n[ɰᵝ] is [w] with lips compressed instead of rounded"
+    },
+    {
+      "term": "を",
+      "definition": "(ヲ) o/wo [o̞]"
+    },
+
+    {
+      "term": "ん",
+      "definition": "(ン) n [m~n~ŋ~ɴ] \n(mostly used at end of syllables)\nis [m] before /p/ /b/ /m/\nis [n] before /t/ /d/ /s/ /r/\nis [ŋ] (English \"ng\") before /k/ /g/\n is [ɴ] (nasal sound with lips shut) everywhere else"
+    },
+
+
+    {
+      "term": "が",
+      "definition": "(ガ) ga [ga̠~ŋa̠]\n[ŋ] is English \"ng\""
+    },
+    {
+      "term": "ぎ",
+      "definition": "(ギ) gi [gʲi~ŋʲi]\n[ŋ] is English \"ng\""
+    },
+    {
+      "term": "ぐ",
+      "definition": "(グ) gu [gɯ̟ᵝ~ŋɯ̟ᵝ]\n[ŋ] is English \"ng\"\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "げ",
+      "definition": "(ゲ) ge [ge̞~ŋe̞]\n[ŋ] is English \"ng\""
+    },
+    {
+      "term": "ご",
+      "definition": "(ゴ) go [go̞~ŋo̞]\n[ŋ] is English \"ng\""
+    },
+
+    {
+      "term": "ざ",
+      "definition": "(ザ) za [d͡za̠]"
+    },
+    {
+      "term": "じ",
+      "definition": "(ジ) ji/zi [(d)ʑi]\n([d͡ʑ] is the voiced version of pinyin \"j\")"
+    },
+    {
+      "term": "ず",
+      "definition": "(ズ) zu [(d)zɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ぜ",
+      "definition": "(ゼ) ze [d͡ze̞]"
+    },
+    {
+      "term": "ぞ",
+      "definition": "(ゾ) zo [d͡zo̞]"
+    },
+
+    {
+      "term": "だ",
+      "definition": "(ダ) da [da̠]"
+    },
+    {
+      "term": "ぢ",
+      "definition": "(ヂ) ji/di [(d)ʑi]\n([d͡ʑ] is the voiced version of pinyin \"j\")"
+    },
+    {
+      "term": "づ",
+      "definition": "(ヅ) dzu/du [(d)zɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "で",
+      "definition": "(デ) de [de̞]"
+    },
+    {
+      "term": "ど",
+      "definition": "(ド) do [do̞]"
+    },
+
+    {
+      "term": "ば",
+      "definition": "(バ) ba [ba̠]"
+    },
+    {
+      "term": "び",
+      "definition": "(ビ) bi [bʲi]"
+    },
+    {
+      "term": "ぶ",
+      "definition": "(ブ) bu [bɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "べ",
+      "definition": "(ベ) be [be̞]"
+    },
+    {
+      "term": "ぼ",
+      "definition": "(ボ) bo [bo̞]"
+    },
+
+    {
+      "term": "ぱ",
+      "definition": "(パ) pa [pa̠]"
+    },
+    {
+      "term": "ぴ",
+      "definition": "(ピ) pi [pʲi]"
+    },
+    {
+      "term": "ぷ",
+      "definition": "(プ) pu [pɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ぺ",
+      "definition": "(ペ) pe [pe̞]"
+    },
+    {
+      "term": "ぽ",
+      "definition": "(ポ) po [po̞]"
+    },
+
+
+    {
+      "term": "ア",
+      "definition": "(あ) a [a̠]"
+    },
+    {
+      "term": "イ",
+      "definition": "(い) i [i]"
+    },
+    {
+      "term": "ウ",
+      "definition": "(う) u [ɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "エ",
+      "definition": "(え) e [e̞]"
+    },
+    {
+      "term": "オ",
+      "definition": "(お) o [o̞]"
+    },
+
+    {
+      "term": "カ",
+      "definition": "(か) ka [ka̠]"
+    },
+    {
+      "term": "キ",
+      "definition": "(き) ki [kʲi]"
+    },
+    {
+      "term": "ク",
+      "definition": "(く) ku [kɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ケ",
+      "definition": "(け) ke [ke̞]"
+    },
+    {
+      "term": "コ",
+      "definition": "(こ) ko [ko̞]"
+    },
+
+    {
+      "term": "サ",
+      "definition": "(さ) sa [sa̠]"
+    },
+    {
+      "term": "シ",
+      "definition": "(し) shi/si [ɕi]\n([ɕ] is the same as pinyin \"x\")"
+    },
+    {
+      "term": "ス",
+      "definition": "(す) su [sɨᵝ]\n[sɨᵝ] is the same as pinyin \"si\""
+    },
+    {
+      "term": "セ",
+      "definition": "(せ) se [se̞]"
+    },
+    {
+      "term": "ソ",
+      "definition": "(そ) so [so̞]"
+    },
+
+    {
+      "term": "タ",
+      "definition": "(た) ta [ta̠]"
+    },
+    {
+      "term": "チ",
+      "definition": "(ち) chi/ti [t͡ɕi]\n([t͡ɕ] is pinyin \"q\" or \"j\")"
+    },
+    {
+      "term": "ツ",
+      "definition": "(つ) tsu/tu [t͡sɨᵝ]\n[t͡sɨᵝ] is pinyin \"ci\" or \"zi\""
+    },
+    {
+      "term": "テ",
+      "definition": "(て) te [te̞]"
+    },
+    {
+      "term": "ト",
+      "definition": "(と) to [to̞]"
+    },
+
+    {
+      "term": "ナ",
+      "definition": "(な) na [na̠]"
+    },
+    {
+      "term": "ニ",
+      "definition": "(に) ni [ɲ̟i]\n[ɲ̟] is [n] with tongue pressed against the roof of the mouth instead of the upper teeth"
+    },
+    {
+      "term": "ヌ",
+      "definition": "(ぬ) nu [nɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ネ",
+      "definition": "(ね) ne [ne̞]"
+    },
+    {
+      "term": "ノ",
+      "definition": "(の) no [no̞]"
+    },
+
+    {
+      "term": "ハ",
+      "definition": "(は) ha [ha̠] \n(wa [ɰa̠] when used as particle)"
+    },
+    {
+      "term": "ヒ",
+      "definition": "(ひ) hi [çi]\n[ç] is somewhere between pinyin \"h\" and \"x\""
+    },
+    {
+      "term": "フ",
+      "definition": "(ふ) fu/hu [ɸɯ̟ᵝ]\n[ɸ] is [f] with airstream between both lips instead of between the upper lip and lower teeth\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ヘ",
+      "definition": "(へ) he [he̞] \n(e [e̞] when used as particle)"
+    },
+    {
+      "term": "ホ",
+      "definition": "(ほ) ho [ho̞]"
+    },
+
+    {
+      "term": "マ",
+      "definition": "(ま) ma [ma̠]"
+    },
+    {
+      "term": "ミ",
+      "definition": "(み) mi [mʲi]"
+    },
+    {
+      "term": "ム",
+      "definition": "(む) mu [mɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "メ",
+      "definition": "(め) me [me̞]"
+    },
+    {
+      "term": "モ",
+      "definition": "(も) mo [mo̞]"
+    },
+
+    {
+      "term": "ヤ",
+      "definition": "(や) ya [ja̠]\n[j] is English \"y\""
+    },
+    {
+      "term": "ユ",
+      "definition": "(ゆ) yu [jɯ̟ᵝ]\n[j] is English \"y\"\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ヨ",
+      "definition": "(よ) yo [jo̞]\n[j] is English \"y\""
+    },
+
+    {
+      "term": "ラ",
+      "definition": "(ら) ra [ɾa̠]\n[ɾ] is a quick tongue tap/flap just above the upper teeth"
+    },
+    {
+      "term": "リ",
+      "definition": "(り) ri [ɾʲi]\n[ɾ] is a quick tongue tap/flap just above the upper teeth"
+    },
+    {
+      "term": "ル",
+      "definition": "(る) ru [ɾɯ̟ᵝ]\n[ɾ] is a quick tongue tap/flap just above the upper teeth\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "レ",
+      "definition": "(れ) re [ɾe̞]\n[ɾ] is a quick tongue tap/flap just above the upper teeth"
+    },
+    {
+      "term": "ロ",
+      "definition": "(ろ) ro [ɾo̞]\n[ɾ] is a quick tongue tap/flap just above the upper teeth"
+    },
+
+    {
+      "term": "ワ",
+      "definition": "(わ) wa [ɰᵝa̠]\n[ɰᵝ] is [w] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ヲ",
+      "definition": "(を) o/wo [o̞]"
+    },
+
+    {
+      "term": "ン",
+      "definition": "(ん) n  [n~ŋ~ɴ~m] \n(mostly used at end of syllables)"
+    },
+
+    {
+      "term": "ガ",
+      "definition": "(が) ga [ga̠~ŋa̠]\n[ŋ] is English \"ng\""
+    },
+    {
+      "term": "ギ",
+      "definition": "(ぎ) gi [gʲi~ŋʲi]\n[ŋ] is English \"ng\""
+    },
+    {
+      "term": "グ",
+      "definition": "(ぐ) gu [gɯ̟ᵝ~ŋɯ̟ᵝ]\n[ŋ] is English \"ng\"\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ゲ",
+      "definition": "(げ) ge [ge̞~ŋe̞]\n[ŋ] is English \"ng\""
+    },
+    {
+      "term": "ゴ",
+      "definition": "(ご) go [go̞~ŋo̞]\n[ŋ] is English \"ng\""
+    },
+
+    {
+      "term": "ザ",
+      "definition": "(ざ) za [d͡za̠]"
+    },
+    {
+      "term": "ジ",
+      "definition": "(じ) ji/zi [(d)ʑi]\n([d͡ʑ] is the voiced version of pinyin \"j\")"
+    },
+    {
+      "term": "ズ",
+      "definition": "(ず) zu [(d)zɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ゼ",
+      "definition": "(ぜ) ze [d͡ze̞]"
+    },
+    {
+      "term": "ゾ",
+      "definition": "(ぞ) zo [d͡zo̞]"
+    },
+
+    {
+      "term": "ダ",
+      "definition": "(だ) da [da̠]"
+    },
+    {
+      "term": "ヂ",
+      "definition": "(ぢ) ji/di [(d)ʑi]\n([d͡ʑ] is the voiced version of pinyin \"j\")"
+    },
+    {
+      "term": "ヅ",
+      "definition": "(づ) dzu/du [(d)zɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "デ",
+      "definition": "(で) de [de̞]"
+    },
+    {
+      "term": "ド",
+      "definition": "(ど) do [do̞]"
+    },
+
+    {
+      "term": "バ",
+      "definition": "(ば) ba [ba̠]"
+    },
+    {
+      "term": "ビ",
+      "definition": "(び) bi [bʲi]"
+    },
+    {
+      "term": "ブ",
+      "definition": "(ぶ) bu [bɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ベ",
+      "definition": "(べ) be [be̞]"
+    },
+    {
+      "term": "ボ",
+      "definition": "(ぼ) bo [bo̞]"
+    },
+
+    {
+      "term": "パ",
+      "definition": "(ぱ) pa [pa̠]"
+    },
+    {
+      "term": "ピ",
+      "definition": "(ぴ) pi [pʲi]"
+    },
+    {
+      "term": "プ",
+      "definition": "(ぷ) pu [pɯ̟ᵝ]\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    },
+    {
+      "term": "ペ",
+      "definition": "(ぺ) pe [pe̞]"
+    },
+    {
+      "term": "ポ",
+      "definition": "(ぽ) po [po̞]"
+    },
+    {
+      "term": "ヴ",
+      "definition": "(ゔ)* vu [bɯ̟ᵝ]\n(only used in foreign words)\n[ɯ̟ᵝ] is [u] with lips compressed instead of rounded"
+    }
+  ]
+}
