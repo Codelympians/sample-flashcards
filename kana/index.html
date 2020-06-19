@@ -77,6 +77,11 @@ function allKana() {
     willLoad()
     tryLoadingJSON("all-kana.json", false)
 }
+  
+function allSyllables() {
+    willLoad()
+    tryLoadingJSON("all-syllables.json", false)
+}
 </script>
 
 <div class="init-button">
@@ -89,5 +94,8 @@ function allKana() {
   </a>
   <a href="#" onclick="allKana()">
     Hiragana + Katakana
+  </a>
+  <a href="#" onclick="allSyllables()">
+    All Syllables (+ゃゅょ)
   </a>
 </div>
